@@ -8,7 +8,6 @@ Developed a system to reduce the carbon footprint of language model usage by ana
 This project fine-tunes **DistilBERT**, a transformer-based model, to classify the **complexity level of a task** based on its textual description using **Bloom’s Taxonomy**.
 After predicting the category (e.g., Remember, Understand, Apply, Analyze, Evaluate, Create) and mapping it to a **difficulty level** (Easy, Medium, Hard), the system recommends the most suitable **Large Language Model (LLM)**.
 Simpler tasks are assigned smaller, more energy-efficient models — reducing overall computation and CO₂ emissions.
-https://github.com/fboulnois/llm-leaderboard-csv/releases#release-2025.08.31
 ---
 
 ##  Key Features
